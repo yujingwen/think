@@ -1,22 +1,22 @@
 # site title
-title:Blog
+title: Blog
 
 # user name or organization name
-user:yujingwen
+user: yujingwen
 
 # issue repository
-repository:blog
+repository: blog
 
 # multi-author
-authors:
+authors: yujingwen
 
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token:2#51568515ca4307531ed4ad17a78585466e41f1b
+token: 2#51568515ca4307531ed4ad17a78585466e41f1b
 
 # posts per page
-perpage:10
+perpage: 10
 
 
 # advance config
